@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config() // to add the .env file
 
 const express = require('express') // == import express from "express"
 const app = express()
